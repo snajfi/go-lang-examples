@@ -11,7 +11,7 @@ var (
 
 // Variable can be also declared without var block
 
-var sentence string // Variable holds strings.String can be empty, but not nil. Strings are imutable.
+var sentence string // Variable holds strings. String can be empty, but not nil. Strings are imutable.
 
 // Signed integers
 var eightBitInt int8 = math.MaxInt8       // -128, 127
